@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Nuxt Starter",
+    "tar": "https://codeload.github.com/doyuli-starters/nuxt-starter/tar.gz/refs/heads/main",
+    "description": "Nuxt 项目起始模板"
+  },
+  {
+    "name": "Nuxt Electron Starter",
+    "tar": "https://codeload.github.com/doyuli-starters/nuxt-electron-starter/tar.gz/refs/heads/main",
+    "description": "Nuxt + Electron 桌面应用起始模板"
+  }
+]
